@@ -1,2 +1,2 @@
 # my-journey
-python variable
+python
