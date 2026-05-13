@@ -1,0 +1,2 @@
+# my-journey
+python variable
